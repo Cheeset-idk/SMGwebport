@@ -6,3 +6,6 @@ this port uses the [Super Mario Galaxy Decomp](https://github.com/SMGCommunity/P
 
 the rest of the port is just emscription shi and some data files
 
+Nintendo please don't roast me on a stake for making this
+
+i wanna live :(
